@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Title": "Pronto Vehicle Valuation System",
+    "Description": "Full-stack vehicle valuation platform integrating Angular frontend with .NET Core Web API and CosmosDB backend.",
+    "TechStack": ["Angular", ".NET Core", "Azure Functions", "CosmosDB"],
+    "Link": "https://github.com/yourusername/pronto-valuation"
+  },
+  {
+    "Id": 2,
+    "Title": "BSF Larvae Climate Controller",
+    "Description": "IoT-driven climate-control incubator using NodeMCU, DHT22 sensors, and Azure IoT for optimal BSF larvae growth.",
+    "TechStack": ["NodeMCU", "ESP8266", "Azure IoT", "C#"],
+    "Link": "https://github.com/yourusername/bsf-climate-control"
+  }
+]

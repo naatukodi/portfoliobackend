@@ -5,6 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Register application services
 builder.Services.AddSingleton<ISummaryService, SummaryService>();
 builder.Services.AddSingleton<IExperienceService, ExperienceService>();
+builder.Services.AddSingleton<IEducationService, EducationService>();
+builder.Services.AddSingleton<IProjectService, ProjectService>();
 
 // Add controllers
 builder.Services.AddControllers();
