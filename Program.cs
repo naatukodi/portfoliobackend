@@ -7,6 +7,8 @@ builder.Services.AddSingleton<ISummaryService, SummaryService>();
 builder.Services.AddSingleton<IExperienceService, ExperienceService>();
 builder.Services.AddSingleton<IEducationService, EducationService>();
 builder.Services.AddSingleton<IProjectService, ProjectService>();
+builder.Services.AddSingleton<ISkillService, SkillService>();
+builder.Services.AddSingleton<IContactService, ContactService>();
 
 // Add controllers
 builder.Services.AddControllers();

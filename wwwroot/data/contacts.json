@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Email": "you@example.com",
+    "Phone": "+91-XXXXXXXXXX",
+    "LinkedInUrl": "https://linkedin.com/in/yourprofile",
+    "GitHubUrl": "https://github.com/yourusername"
+  }
+]

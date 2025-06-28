@@ -1,0 +1,7 @@
+[
+  { "Id": 1, "Name": "Azure Functions",    "Category": "Cloud",     "Proficiency": 5 },
+  { "Id": 2, "Name": ".NET Core",           "Category": "Backend",   "Proficiency": 5 },
+  { "Id": 3, "Name": "Angular",             "Category": "Frontend",  "Proficiency": 4 },
+  { "Id": 4, "Name": "Docker",              "Category": "DevOps",    "Proficiency": 4 },
+  { "Id": 5, "Name": "C#",                  "Category": "Language",  "Proficiency": 5 }
+]
