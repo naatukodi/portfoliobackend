@@ -4,6 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Register application services
 builder.Services.AddSingleton<ISummaryService, SummaryService>();
+builder.Services.AddSingleton<IExperienceService, ExperienceService>();
 
 // Add controllers
 builder.Services.AddControllers();
@@ -18,8 +19,8 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
-c.SwaggerEndpoint("/swagger/v1/swagger.json", "Portfolio API V1");
-c.RoutePrefix = string.Empty; // Serve Swagger UI at application root
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Portfolio API V1");
+    c.RoutePrefix = string.Empty; // Serve Swagger UI at application root
 });
 
 app.UseHttpsRedirection();
