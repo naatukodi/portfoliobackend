@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "data/summary.6hbvf9a9xl.json",
+      "AssetFile": "data/summary.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:39:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hbvf9a9xl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg="
+        },
+        {
+          "Name": "label",
+          "Value": "data/summary.json"
+        }
+      ]
+    },
+    {
+      "Route": "data/summary.json",
+      "AssetFile": "data/summary.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:39:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg="
+        }
+      ]
+    }
+  ]
+}

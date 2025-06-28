@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "LtVplINRDpvobaTlCOcg7MbCAEJxakdOyb/TJWYwcO0=",
+  "Source": "myportfolio",
+  "BasePath": "_content/myportfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "myportfolio/wwwroot",
+      "Source": "myportfolio",
+      "ContentRoot": "/Users/tirurao/Working/myportfolioweb/web/wwwroot/",
+      "BasePath": "_content/myportfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/tirurao/Working/myportfolioweb/web/wwwroot/data/summary.json",
+      "SourceId": "myportfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/tirurao/Working/myportfolioweb/web/wwwroot/",
+      "BasePath": "_content/myportfolio",
+      "RelativePath": "data/summary#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6hbvf9a9xl",
+      "Integrity": "2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data/summary.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "data/summary.6hbvf9a9xl.json",
+      "AssetFile": "/Users/tirurao/Working/myportfolioweb/web/wwwroot/data/summary.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hbvf9a9xl"
+        },
+        {
+          "Name": "label",
+          "Value": "data/summary.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg="
+        }
+      ]
+    },
+    {
+      "Route": "data/summary.json",
+      "AssetFile": "/Users/tirurao/Working/myportfolioweb/web/wwwroot/data/summary.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2l5iTErOjrUqvia49bdrCQYVjGDPxm+cVyvuatEVZfg="
+        }
+      ]
+    }
+  ]
+}

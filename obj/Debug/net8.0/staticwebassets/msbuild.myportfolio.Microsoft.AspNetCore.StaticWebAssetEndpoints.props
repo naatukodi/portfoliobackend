@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/myportfolio/data/summary.6hbvf9a9xl.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\summary.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6hbvf9a9xl"},{"Name":"integrity","Value":"sha256-2l5iTErOjrUqvia49bdrCQYVjGDPxm\u002BcVyvuatEVZfg="},{"Name":"label","Value":"_content/myportfolio/data/summary.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"370"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222l5iTErOjrUqvia49bdrCQYVjGDPxm\u002BcVyvuatEVZfg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Jun 2025 14:39:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/myportfolio/data/summary.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\summary.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2l5iTErOjrUqvia49bdrCQYVjGDPxm\u002BcVyvuatEVZfg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"370"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222l5iTErOjrUqvia49bdrCQYVjGDPxm\u002BcVyvuatEVZfg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Jun 2025 14:39:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

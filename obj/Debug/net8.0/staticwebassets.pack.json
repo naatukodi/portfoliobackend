@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tirurao/Working/myportfolioweb/web/wwwroot/data/summary.json",
+      "PackagePath": "staticwebassets/data/summary.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.myportfolio.props",
+      "PackagePath": "build\\myportfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.myportfolio.props",
+      "PackagePath": "buildMultiTargeting\\myportfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.myportfolio.props",
+      "PackagePath": "buildTransitive\\myportfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.myportfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.myportfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
