@@ -1,7 +1,134 @@
 [
-  { "Id": 1, "Name": "Azure Functions",    "Category": "Cloud",     "Proficiency": 5 },
-  { "Id": 2, "Name": ".NET Core",           "Category": "Backend",   "Proficiency": 5 },
-  { "Id": 3, "Name": "Angular",             "Category": "Frontend",  "Proficiency": 4 },
-  { "Id": 4, "Name": "Docker",              "Category": "DevOps",    "Proficiency": 4 },
-  { "Id": 5, "Name": "C#",                  "Category": "Language",  "Proficiency": 5 }
+  {
+    "Id": 1,
+    "Name": "Evangelist - Azure Architecture Center",
+    "Category": "Certification",
+    "Proficiency": 5
+  },
+  {
+    "Id": 2,
+    "Name": "AZ-305: Azure Architect",
+    "Category": "Certification",
+    "Proficiency": 5
+  },
+  {
+    "Id": 3,
+    "Name": "AZ-203: Developing Solutions for Microsoft Azure",
+    "Category": "Certification",
+    "Proficiency": 5
+  },
+  {
+    "Id": 4,
+    "Name": "MS-600: Building Applications with Azure",
+    "Category": "Certification",
+    "Proficiency": 5
+  },
+  {
+    "Id": 5,
+    "Name": "CKAD: Certified Kubernetes Application Developer",
+    "Category": "Certification",
+    "Proficiency": 5
+  },
+  {
+    "Id": 6,
+    "Name": "Kubernetes",
+    "Category": "Cloud Native Technologies",
+    "Proficiency": 5
+  },
+  {
+    "Id": 7,
+    "Name": "GenAI",
+    "Category": "AI/ML",
+    "Proficiency": 4
+  },
+  {
+    "Id": 8,
+    "Name": "RAG",
+    "Category": "AI/ML",
+    "Proficiency": 4
+  },
+  {
+    "Id": 9,
+    "Name": "LLM",
+    "Category": "AI/ML",
+    "Proficiency": 4
+  },
+  {
+    "Id": 10,
+    "Name": "Azure",
+    "Category": "Cloud Environments",
+    "Proficiency": 5
+  },
+  {
+    "Id": 11,
+    "Name": "AWS",
+    "Category": "Cloud Environments",
+    "Proficiency": 4
+  },
+  {
+    "Id": 12,
+    "Name": "Containers",
+    "Category": "Cloud Environments",
+    "Proficiency": 5
+  },
+  {
+    "Id": 13,
+    "Name": "MS SQL",
+    "Category": "Databases",
+    "Proficiency": 5
+  },
+  {
+    "Id": 14,
+    "Name": "Redis",
+    "Category": "Databases",
+    "Proficiency": 5
+  },
+  {
+    "Id": 15,
+    "Name": "MongoDB",
+    "Category": "Databases",
+    "Proficiency": 5
+  },
+  {
+    "Id": 16,
+    "Name": "Python",
+    "Category": "Scripting",
+    "Proficiency": 5
+  },
+  {
+    "Id": 17,
+    "Name": "Bash",
+    "Category": "Scripting",
+    "Proficiency": 4
+  },
+  {
+    "Id": 18,
+    "Name": "PowerShell",
+    "Category": "Scripting",
+    "Proficiency": 4
+  },
+  {
+    "Id": 19,
+    "Name": "Shift-Left Automation",
+    "Category": "DevSecOps",
+    "Proficiency": 5
+  },
+  {
+    "Id": 20,
+    "Name": "Automation Tools",
+    "Category": "DevSecOps",
+    "Proficiency": 4
+  },
+  {
+    "Id": 21,
+    "Name": "Canary Deployments",
+    "Category": "Deployment Strategies",
+    "Proficiency": 5
+  },
+  {
+    "Id": 22,
+    "Name": "Blue-Green Deployments",
+    "Category": "Deployment Strategies",
+    "Proficiency": 5
+  }
 ]

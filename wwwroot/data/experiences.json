@@ -1,16 +1,71 @@
 [
   {
     "Id": 1,
+    "Company": "Ascendion",
+    "Role": "Solution Architect",
+    "StartDate": "2024-03-01T00:00:00",
+    "EndDate": null,
+    "Location": "Hyderabad, India",
+    "Responsibilities": [
+      "Led migration from WCF to .NET Core, refactoring legacy services into reusable class libraries and designing RESTful APIs with ASP.NET Core (Swagger) for downstream integrations",
+      "Migrated headless CMS from Sitecore to Kentico, streamlining content workflows and boosting performance of distributed web applications",
+      "Troubleshot and optimized static site generation pipelines using Scully, implementing event-driven publishing and CI/CD automation to ensure zero-downtime deployments",
+      "Analyzed and re-architected .NET Core middleware components, replacing legacy connectors with modern interfaces for Salesforce lead-generation workflows and SQL Server–backed business data storage",
+      "Developed technical roadmaps for enhancements and long-term maintenance, incorporating containerization (Docker), CI/CD (Azure DevOps/GitHub Actions) and microservices architecture",
+      "Led cross-functional Agile/Scrum teams to deliver enterprise-grade, scalable solutions—driving digital transformation, cost optimization, security hardening, and seamless cloud-native/on-premise integration"
+    ]
+  },
+  {
+    "Id": 2,
+    "Company": "Walmart Global Tech (American Unit Payroll)",
+    "Role": "Solution Architect",
+    "StartDate": "2023-02-01T00:00:00",
+    "EndDate": null,
+    "Location": "Hyderabad, IN",
+    "Responsibilities": [
+      "Directed the transition of a SharePoint-based application and SQL database to a modern architecture using Java Spring Boot microservices and a React frontend",
+      "Transitioned from Active Directory and SQL forms-based authentication to Azure AD and Azure B2C using a domain-driven approach",
+      "Built and orchestrated CI/CD pipelines with PingFederate, Jenkins, and Azure Kubernetes Service (AKS) for scalable deployments"
+    ]
+  },
+  {
+    "Id": 3,
     "Company": "Microsoft",
     "Role": "Consultant",
     "StartDate": "2016-07-01T00:00:00",
-    "EndDate":   "2023-02-01T00:00:00",
+    "EndDate": "2023-02-01T00:00:00",
     "Location": "Hyderabad, IN",
     "Responsibilities": [
-      "Pre-Sales activities",
-      "Architected cloud solutions",
-      "Led cross-functional teams",
-      "Managed stakeholders"
+      "Designed end-to-end Modern Work solutions on Azure (Office 365, SharePoint Online) and led tenant-to-tenant migrations for ICON, Intel, Purdue, Comerica—10k+ users, 2.45 PB data—ensuring zero downtime and compliance",
+      "Re-engineered legacy Device Migration Controller into Azure Functions + Cosmos DB; built SharePoint on-prem → Online migration pipeline with Azure Synapse, Redis Cache, and orchestration, delivering $1 M quarterly cost savings",
+      "Developed cloud-native School Management System on Office 365, Teams, Kaizala, Power Apps, Power BI; crafted Power BI dashboards and Power Automate flows to streamline business processes",
+      "Managed 40+ engineers across multi-region projects, authored technical designs, drove Agile/Scrum delivery, and acted as trusted advisor on Modern Work technologies and stakeholder engagement"
+    ]
+  },
+  {
+    "Id": 4,
+    "Company": "Microsoft",
+    "Role": "Technical Lead",
+    "StartDate": "2010-11-01T00:00:00",
+    "EndDate": "2016-07-01T00:00:00",
+    "Location": "Bangalore, IN",
+    "Responsibilities": [
+      "Handled SharePoint & .NET application bug triaging, development, and support as lead engineer",
+      "Analyzed existing Office 365, SharePoint 2010/2007 environment setups and custom components",
+      "Defined governance processes for SharePoint intranet usage and collaborated with architects on solution design and troubleshooting"
+    ]
+  },
+  {
+    "Id": 5,
+    "Company": "Netenrich",
+    "Role": "Systems Engineer",
+    "StartDate": "2007-05-01T00:00:00",
+    "EndDate": "2010-10-01T00:00:00",
+    "Location": "Hyderabad, IN",
+    "Responsibilities": [
+      "Installed, configured, and troubleshooted Windows, Exchange, and Active Directory servers",
+      "Performed system vulnerability patching and assisted with service pack updates",
+      "Supported IT operations management tasks for cloud, security, data center, and network infrastructure"
     ]
   }
 ]

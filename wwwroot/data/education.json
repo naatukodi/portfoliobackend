@@ -1,12 +1,12 @@
 [
   {
     "Id": 1,
-    "Institution": "Osmania University",
-    "Degree": "B.Tech in Computer Science",
-    "FieldOfStudy": "Computer Science and Engineering",
+    "Institution": "SRKR Engineering College",
+    "Degree": "B.E in Electronics and Communication Engineering",
+    "FieldOfStudy": "Electronics and Communication Engineering",
     "StartDate": "2010-08-01T00:00:00",
     "EndDate": "2014-05-01T00:00:00",
-    "GPA": 8.5,
-    "Location": "Hyderabad, IN"
+    "GPA": 7,
+    "Location": "Bhimavaram, IN"
   }
 ]
