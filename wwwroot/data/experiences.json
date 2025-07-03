@@ -20,7 +20,7 @@
     "Company": "Walmart Global Tech (American Unit Payroll)",
     "Role": "Solution Architect",
     "StartDate": "2023-02-01T00:00:00",
-    "EndDate": null,
+    "EndDate": "2023-03-01T00:00:00",
     "Location": "Hyderabad, IN",
     "Responsibilities": [
       "Directed the transition of a SharePoint-based application and SQL database to a modern architecture using Java Spring Boot microservices and a React frontend",
